@@ -1,0 +1,66 @@
+body{
+    background-color: aqua;
+}
+
+.par1{
+    background-color: brown;
+    color: aliceblue;
+    padding: 40px;
+    margin: 100px;
+}
+.par2{
+    background-color: bisque;
+    color: black;
+    padding: 50px;
+    margin-left: 20px;
+}
+.par3{
+    background-color: black;
+    color: blueviolet;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.par4{
+    background-color: blueviolet;
+    color: aliceblue;
+    
+}
+.sub1{
+    background-color: blue;
+    color: aliceblue;
+    padding: 7px;
+    margin-top: 20px;
+}
+.Flexy{
+    background-color: brown;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Flexy2{
+    background-color: blueviolet;
+    padding: 20px;
+    display: flex;
+}
+.Flexy3{
+    background-color: beige;
+    padding: 17px;
+    display: flex;
+}
+.flexy4{
+    background-color: brown;
+    padding: 20px;
+    display: flex;
+}
+.Flexy img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Flexy p{
+    color: white;
+}
+
