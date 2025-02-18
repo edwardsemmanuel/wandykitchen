@@ -82,6 +82,41 @@ span{
     flex-wrap: wrap;
 }
 
+/* counter starts here */
+    .counter{
+        display: flex;
+        flex-direction: column;
+        background-color: #1a2e05;
+        align-items: center;
+        margin-top: 20px;
+        border-radius: 0 40px 0 40px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    .counter h1{
+        padding: 0 20px;
+        color: #9bdb56;
+    }
+
+    .buttons{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+        padding: 5px;
+        background-color: #559116;
+        border-radius: 5px;
+    }
+
+    .label{
+        color: #95d650;
+        font-size: 40px;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+/* counter ends here */
+
 
 /* main section ends */
 
